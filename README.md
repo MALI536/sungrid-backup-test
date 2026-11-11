@@ -28,12 +28,18 @@ documents everything clearly.
 
 ### Generate sample data
 Creates three CSV files in `sample_data/`:
-    py generate_data.py
+
+```bash
+py generate_data.py
+```
 
 ### Run the backup
 Copies `sample_data/` into `backup/` and checks the copies match:
-    chmod +x backup.sh
-    ./backup.sh
+
+```bash
+chmod +x backup.sh
+./backup.sh
+```
 
 ### Expected result
-`backup/` contains `installations.csv`, `equipment_log.csv` and `maintenance_log.csv`
+`backup/` contains `installations.csv`, `equipment_log.csv` and `maintenance_log.csv`.
