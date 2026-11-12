@@ -1,10 +1,9 @@
 # Restore Test Report
 
-**Project:** SunGrid Solar Backup and Recovery Test
-**Author:** Muhammad Ali
-**Test date:** 12 November 2026
-**Live site:** https://mali536.github.io/sungrid-backup-test/
-
+- **Project:** SunGrid Solar Backup and Recovery Test
+- **Author:** Muhammad Ali
+- **Test date:** 12 November 2026
+- **Live site:** [https://mali536.github.io/sungrid-backup-test/](https://mali536.github.io/sungrid-backup-test/)
 ## Purpose
 Confirm that files saved by `backup.sh` can be restored correctly, and that the restored files are identical to the originals.
 
