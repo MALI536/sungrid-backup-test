@@ -1,0 +1,16 @@
+ticket_id,install_id,visit_date,technician,issue,resolved
+TK001,INS002,2026-08-23,Imran,Inverter fault,No
+TK002,INS003,2027-06-11,Kamran,Loose wiring,No
+TK003,INS007,2027-07-07,Kamran,Monitoring offline,No
+TK004,INS008,2027-04-30,Tariq,Panel cleaning,Yes
+TK005,INS004,2027-03-18,Nadia,Low output,No
+TK006,INS015,2026-02-25,Imran,Inverter fault,No
+TK007,INS011,2026-04-22,Kamran,Panel cleaning,Yes
+TK008,INS018,2027-04-05,Kamran,Low output,Yes
+TK009,INS009,2027-04-19,Kamran,Inverter fault,No
+TK010,INS018,2026-04-11,Imran,Monitoring offline,Yes
+TK011,INS003,2026-08-31,Kamran,Low output,No
+TK012,INS016,2026-08-07,Tariq,Inverter fault,Yes
+TK013,INS013,2026-01-03,Tariq,Loose wiring,No
+TK014,INS010,2027-03-10,Tariq,Panel cleaning,Yes
+TK015,INS010,2026-08-11,Imran,Monitoring offline,Yes

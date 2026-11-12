@@ -43,3 +43,14 @@ chmod +x backup.sh
 
 ### Expected result
 `backup/` contains `installations.csv`, `equipment_log.csv` and `maintenance_log.csv`.
+
+## Live documentation
+GitHub Pages site: https://mali536.github.io/sungrid-backup-test/
+
+## Task 3: Restore test
+Restore the backup and verify it with SHA-256 hashes:
+
+    chmod +x restore.sh
+    ./restore.sh
+
+See `report.md` for the full restore test results.
